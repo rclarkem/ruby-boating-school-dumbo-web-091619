@@ -6,7 +6,7 @@ class BoatingTest
         @student = student
         @test_name = test_name
         @test_status = test_status
-        @instructor 
+        @instructor = instructor
         @@all << self      
     end
 
